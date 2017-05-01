@@ -5,7 +5,11 @@ layout: default
 Purpose
 ==
 
-The purpose of this [SIGIR 2017](http://sigir.org/sigir2017/) workshop (held on the workshop day &mdash; August 11) is to bring together the community of researchers using Lucene, and its derivatives like Solr and Elasticsearch, and develop tools for IR research. Lucene for Information Access and Retrieval Research (LIARR) is not a traditional "mini conference"-style workshop with a call for papers, reviewed by a programme committee, and then presented. Rather it is a hackathon for attendees to actually work with Lucene in a hands-on capacity. Presentations are meant only as a tool for structuring and guiding the efforts of attendees. Hence, the workshop motto of: ***less yaking, more hacking***.
+Lucene is the most widely-used information retrieval toolkit in the world and has emerged as the *de facto* platform used in industry, especially via other software components in the ecosystem such as Solr and Elasticsearch. However, unlike open-source academic information retrieval systems (e.g., Indri, Terrier, etc.), Lucene has been less focused on evaluation, particularly using standard IR test collections. As a result, Lucene is sometimes viewed as less suitable for research. We wish to change this.
+
+This workshop aims to develop Lucene as a platform for information access and retrieval research. We believe that there are numerous benefits for the adoption of Lucene by IR researchers, including greater reproducibility and easier dissemination of research results to the large community of Lucene users. The purpose of this [SIGIR 2017](http://sigir.org/sigir2017/) Workshop is to bring together the community of researchers, practitioners, and developers to realize this vision.
+
+Lucene for Information Access and Retrieval Research (LIARR) is not a traditional "mini conference"-style workshop with a call for papers, submissions reviewed by a program committee, and presentations at the event. Instead, it is designed as a hackathon for attendees to actually work with Lucene in a hands-on capacity. Presentations are meant only as a tool for structuring and guiding the efforts of attendees. Hence, the workshop motto of: ***less yaking, more hacking***.
 
 The goals of this workshop are to:
  - create a development plan and common codebase for IR research with Lucene,
